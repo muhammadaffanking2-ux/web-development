@@ -1,0 +1,32 @@
+.prod-lab {
+    border: 2px solid;
+    width: 20%;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+img.prod-img {
+    width: 100%;
+    
+}
+
+
+.heading {
+    font-size: 30px;
+    margin: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.price {
+    font-size: 20px;
+    margin-bottom: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.prod-button {
+    width: 100%;
+    padding: 5px;
+    background-color: purple;
+    color: aliceblue;
+    border-radius: 10px;
+}
